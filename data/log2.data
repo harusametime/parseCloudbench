@@ -1,0 +1,1043 @@
+16/06/21 16:11:25
+122 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               692.3 MB / 16.78 GB   4.13%               10.93 MB / 1.676 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               429.5 MB / 1.054 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.2 MB / 1.194 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.36 MB / 16.78 GB   0.29%               2.286 GB / 1.024 GB   0 B / 36.86 kB      0
+16/06/21 16:11:27
+124 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        9.68%               692.2 MB / 16.78 GB   4.13%               11.15 MB / 1.696 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        11.79%              101.7 MB / 16.78 GB   0.61%               429.7 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.77%               7.725 MB / 16.78 GB   0.05%               331.3 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        57.71%              49.26 MB / 16.78 GB   0.29%               2.287 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:29
+126 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        3.14%               692.2 MB / 16.78 GB   4.13%               11.24 MB / 1.704 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        4.20%               101.8 MB / 16.78 GB   0.61%               429.8 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.58%               7.725 MB / 16.78 GB   0.05%               331.4 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        21.36%              49.22 MB / 16.78 GB   0.29%               2.287 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:31
+128 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.90%               692.2 MB / 16.78 GB   4.13%               11.24 MB / 1.704 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.09%               101.7 MB / 16.78 GB   0.61%               429.8 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.4 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.09 MB / 16.78 GB   0.29%               2.287 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:33
+130 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               692.2 MB / 16.78 GB   4.13%               11.24 MB / 1.704 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.09%               101.7 MB / 16.78 GB   0.61%               429.8 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.4 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.09 MB / 16.78 GB   0.29%               2.287 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:35
+132 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               692.2 MB / 16.78 GB   4.13%               11.24 MB / 1.704 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.09%               101.7 MB / 16.78 GB   0.61%               429.8 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.4 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.09 MB / 16.78 GB   0.29%               2.287 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:37
+134 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        13.19%              692.3 MB / 16.78 GB   4.13%               11.25 MB / 1.711 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        11.25%              101.9 MB / 16.78 GB   0.61%               430 MB / 1.055 GB     0 B / 5.632 MB      0
+a807a17d1bd8        3.33%               7.725 MB / 16.78 GB   0.05%               331.5 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        26.15%              49.11 MB / 16.78 GB   0.29%               2.288 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:39
+136 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.22%               692.3 MB / 16.78 GB   4.13%               11.26 MB / 1.715 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        6.49%               101.7 MB / 16.78 GB   0.61%               430 MB / 1.055 GB     0 B / 5.632 MB      0
+a807a17d1bd8        1.31%               7.725 MB / 16.78 GB   0.05%               331.5 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        13.71%              49.5 MB / 16.78 GB    0.30%               2.288 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:41
+138 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.23%               692.3 MB / 16.78 GB   4.13%               11.26 MB / 1.716 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               430.1 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.5 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               48.87 MB / 16.78 GB   0.29%               2.288 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:43
+140 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.36%               692.3 MB / 16.78 GB   4.13%               11.26 MB / 1.716 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               430.1 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.5 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               48.87 MB / 16.78 GB   0.29%               2.288 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:45
+142 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               692.3 MB / 16.78 GB   4.13%               11.26 MB / 1.716 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               430.1 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.5 MB / 1.195 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.87 MB / 16.78 GB   0.29%               2.288 GB / 1.025 GB   0 B / 36.86 kB      0
+16/06/21 16:11:47
+144 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        5.01%               692.3 MB / 16.78 GB   4.13%               11.67 MB / 1.728 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        10.83%              101.7 MB / 16.78 GB   0.61%               430.2 MB / 1.055 GB   0 B / 5.632 MB      0
+a807a17d1bd8        3.28%               7.725 MB / 16.78 GB   0.05%               331.6 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        36.78%              49.31 MB / 16.78 GB   0.29%               2.289 GB / 1.026 GB   0 B / 36.86 kB      0
+16/06/21 16:11:49
+146 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.84%               692.3 MB / 16.78 GB   4.13%               11.67 MB / 1.731 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        3.98%               101.7 MB / 16.78 GB   0.61%               430.3 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.16%               7.725 MB / 16.78 GB   0.05%               331.7 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        10.26%              48.84 MB / 16.78 GB   0.29%               2.289 GB / 1.026 GB   0 B / 36.86 kB      0
+16/06/21 16:11:51
+148 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.70%               692.4 MB / 16.78 GB   4.13%               11.68 MB / 1.733 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.10%               101.7 MB / 16.78 GB   0.61%               430.3 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.7 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.1 MB / 16.78 GB    0.29%               2.289 GB / 1.026 GB   0 B / 36.86 kB      0
+16/06/21 16:11:53
+150 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               692.3 MB / 16.78 GB   4.13%               11.68 MB / 1.733 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               430.3 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.7 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.1 MB / 16.78 GB    0.29%               2.289 GB / 1.026 GB   0 B / 36.86 kB      0
+16/06/21 16:11:55
+152 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.38%               692.3 MB / 16.78 GB   4.13%               11.68 MB / 1.733 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               430.3 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.7 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.1 MB / 16.78 GB    0.29%               2.289 GB / 1.026 GB   0 B / 36.86 kB      0
+16/06/21 16:11:57
+154 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        4.56%               692.3 MB / 16.78 GB   4.13%               12.08 MB / 1.744 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        12.68%              101.7 MB / 16.78 GB   0.61%               430.5 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        3.21%               7.725 MB / 16.78 GB   0.05%               331.8 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        30.79%              49.4 MB / 16.78 GB    0.29%               2.29 GB / 1.027 GB    0 B / 36.86 kB      0
+16/06/21 16:11:59
+156 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.97%               692.3 MB / 16.78 GB   4.13%               12.08 MB / 1.747 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        3.71%               101.7 MB / 16.78 GB   0.61%               430.5 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.89%               7.725 MB / 16.78 GB   0.05%               331.8 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        10.33%              49.15 MB / 16.78 GB   0.29%               2.29 GB / 1.027 GB    0 B / 36.86 kB      0
+16/06/21 16:12:01
+158 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.63%               692.3 MB / 16.78 GB   4.13%               12.09 MB / 1.749 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               430.6 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.9 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.17 MB / 16.78 GB   0.29%               2.29 GB / 1.027 GB    0 B / 36.86 kB      0
+16/06/21 16:12:03
+160 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               692.3 MB / 16.78 GB   4.13%               12.09 MB / 1.749 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.7 MB / 16.78 GB   0.61%               430.6 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.01%               7.725 MB / 16.78 GB   0.05%               331.9 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.17 MB / 16.78 GB   0.29%               2.29 GB / 1.027 GB    0 B / 36.86 kB      0
+16/06/21 16:12:05
+162 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               692.3 MB / 16.78 GB   4.13%               12.09 MB / 1.749 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               430.6 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               331.9 MB / 1.196 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.17 MB / 16.78 GB   0.29%               2.29 GB / 1.027 GB    0 B / 36.86 kB      0
+16/06/21 16:12:07
+164 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        5.94%               692.3 MB / 16.78 GB   4.13%               12.14 MB / 1.758 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        12.12%              101.7 MB / 16.78 GB   0.61%               430.7 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.39%               7.725 MB / 16.78 GB   0.05%               332 MB / 1.197 GB     0 B / 0 B           0
+942b37b9b20c        43.29%              48.98 MB / 16.78 GB   0.29%               2.291 GB / 1.027 GB   0 B / 36.86 kB      0
+16/06/21 16:12:09
+166 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.90%               692.3 MB / 16.78 GB   4.13%               12.14 MB / 1.76 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.25%               101.7 MB / 16.78 GB   0.61%               430.8 MB / 1.056 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.98%               7.725 MB / 16.78 GB   0.05%               332 MB / 1.197 GB     0 B / 0 B           0
+942b37b9b20c        9.82%               49.14 MB / 16.78 GB   0.29%               2.291 GB / 1.027 GB   0 B / 36.86 kB      0
+16/06/21 16:12:11
+168 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               692.3 MB / 16.78 GB   4.13%               12.15 MB / 1.762 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               430.8 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332 MB / 1.197 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.14 MB / 16.78 GB   0.29%               2.291 GB / 1.027 GB   0 B / 36.86 kB      0
+16/06/21 16:12:13
+170 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               692.3 MB / 16.78 GB   4.13%               12.15 MB / 1.762 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               430.8 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332 MB / 1.197 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.14 MB / 16.78 GB   0.29%               2.291 GB / 1.027 GB   0 B / 36.86 kB      0
+16/06/21 16:12:15
+172 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               692.3 MB / 16.78 GB   4.13%               12.15 MB / 1.762 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               430.8 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332 MB / 1.197 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.14 MB / 16.78 GB   0.29%               2.291 GB / 1.027 GB   0 B / 36.86 kB      0
+16/06/21 16:12:17
+174 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        4.25%               692.3 MB / 16.78 GB   4.13%               12.16 MB / 1.769 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        21.53%              101.7 MB / 16.78 GB   0.61%               431 MB / 1.057 GB     0 B / 5.632 MB      0
+a807a17d1bd8        4.59%               7.725 MB / 16.78 GB   0.05%               332.1 MB / 1.197 GB   0 B / 0 B           0
+942b37b9b20c        43.81%              49.75 MB / 16.78 GB   0.30%               2.292 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:19
+176 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.83%               692.3 MB / 16.78 GB   4.13%               12.17 MB / 1.773 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        6.73%               101.7 MB / 16.78 GB   0.61%               431.1 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.90%               7.725 MB / 16.78 GB   0.05%               332.2 MB / 1.197 GB   0 B / 0 B           0
+942b37b9b20c        15.17%              49.18 MB / 16.78 GB   0.29%               2.292 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:21
+178 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.65%               692.3 MB / 16.78 GB   4.13%               12.17 MB / 1.775 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.1 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.2 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.92 MB / 16.78 GB   0.29%               2.292 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:23
+180 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               692.3 MB / 16.78 GB   4.13%               12.17 MB / 1.775 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               431.1 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.2 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.92 MB / 16.78 GB   0.29%               2.292 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:25
+182 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.44%               692.3 MB / 16.78 GB   4.13%               12.17 MB / 1.775 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               431.1 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.2 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.92 MB / 16.78 GB   0.29%               2.292 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:27
+184 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        4.91%               692.4 MB / 16.78 GB   4.13%               12.18 MB / 1.78 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        14.80%              101.9 MB / 16.78 GB   0.61%               431.2 MB / 1.057 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.48%               7.725 MB / 16.78 GB   0.05%               332.3 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        38.08%              49.32 MB / 16.78 GB   0.29%               2.293 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:29
+186 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.88%               692.4 MB / 16.78 GB   4.13%               12.19 MB / 1.783 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.15%               101.7 MB / 16.78 GB   0.61%               431.3 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.96%               7.725 MB / 16.78 GB   0.05%               332.3 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        9.67%               49.38 MB / 16.78 GB   0.29%               2.293 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:31
+188 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               692.4 MB / 16.78 GB   4.13%               12.19 MB / 1.785 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.3 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.3 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.15 MB / 16.78 GB   0.29%               2.293 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:33
+190 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               692.4 MB / 16.78 GB   4.13%               12.19 MB / 1.785 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.3 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.3 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        0.04%               49.15 MB / 16.78 GB   0.29%               2.293 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:35
+192 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               692.4 MB / 16.78 GB   4.13%               12.19 MB / 1.785 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.3 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.3 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.15 MB / 16.78 GB   0.29%               2.293 GB / 1.028 GB   0 B / 36.86 kB      0
+16/06/21 16:12:37
+194 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        3.32%               692.4 MB / 16.78 GB   4.13%               12.59 MB / 1.795 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        11.73%              101.7 MB / 16.78 GB   0.61%               431.4 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.16%               7.725 MB / 16.78 GB   0.05%               332.4 MB / 1.198 GB   0 B / 0 B           0
+942b37b9b20c        25.86%              48.89 MB / 16.78 GB   0.29%               2.294 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:39
+196 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.86%               692.4 MB / 16.78 GB   4.13%               12.6 MB / 1.8 MB      0 B / 69.63 kB      0
+6fcb7d6556d0        7.38%               101.8 MB / 16.78 GB   0.61%               431.5 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.86%               7.725 MB / 16.78 GB   0.05%               332.4 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        15.05%              49.43 MB / 16.78 GB   0.29%               2.294 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:41
+198 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               692.4 MB / 16.78 GB   4.13%               12.6 MB / 1.802 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.09%               101.7 MB / 16.78 GB   0.61%               431.5 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.5 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.93 MB / 16.78 GB   0.29%               2.294 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:43
+200 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               692.4 MB / 16.78 GB   4.13%               12.6 MB / 1.802 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.5 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.01%               7.725 MB / 16.78 GB   0.05%               332.5 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.93 MB / 16.78 GB   0.29%               2.294 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:45
+202 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               692.4 MB / 16.78 GB   4.13%               12.6 MB / 1.802 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.5 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.5 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.93 MB / 16.78 GB   0.29%               2.294 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:47
+204 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        6.09%               692.4 MB / 16.78 GB   4.13%               12.65 MB / 1.809 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        13.34%              101.7 MB / 16.78 GB   0.61%               431.7 MB / 1.058 GB   0 B / 5.632 MB      0
+a807a17d1bd8        3.48%               7.725 MB / 16.78 GB   0.05%               332.5 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        40.59%              49.32 MB / 16.78 GB   0.29%               2.295 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:49
+206 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.87%               692.4 MB / 16.78 GB   4.13%               12.66 MB / 1.813 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.31%               101.9 MB / 16.78 GB   0.61%               431.8 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.07%               7.725 MB / 16.78 GB   0.05%               332.6 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        9.60%               49.16 MB / 16.78 GB   0.29%               2.295 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:51
+208 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.62%               692.4 MB / 16.78 GB   4.13%               12.66 MB / 1.815 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.8 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.6 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.16 MB / 16.78 GB   0.29%               2.295 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:53
+210 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               692.4 MB / 16.78 GB   4.13%               12.66 MB / 1.815 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.8 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.6 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.16 MB / 16.78 GB   0.29%               2.295 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:55
+212 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               692.4 MB / 16.78 GB   4.13%               12.66 MB / 1.815 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               431.8 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.6 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.16 MB / 16.78 GB   0.29%               2.295 GB / 1.029 GB   0 B / 36.86 kB      0
+16/06/21 16:12:57
+214 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.34%               692.4 MB / 16.78 GB   4.13%               12.67 MB / 1.819 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        9.99%               102 MB / 16.78 GB     0.61%               431.9 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.63%               7.725 MB / 16.78 GB   0.05%               332.7 MB / 1.199 GB   0 B / 0 B           0
+942b37b9b20c        22.30%              49.28 MB / 16.78 GB   0.29%               2.296 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:12:59
+216 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.86%               692.5 MB / 16.78 GB   4.13%               12.68 MB / 1.825 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        3.91%               101.7 MB / 16.78 GB   0.61%               432 MB / 1.059 GB     0 B / 5.632 MB      0
+a807a17d1bd8        1.11%               7.725 MB / 16.78 GB   0.05%               332.8 MB / 1.2 GB     0 B / 0 B           0
+942b37b9b20c        9.76%               48.94 MB / 16.78 GB   0.29%               2.296 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:13:01
+218 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               692.4 MB / 16.78 GB   4.13%               12.69 MB / 1.827 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               432.1 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.8 MB / 1.2 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               48.91 MB / 16.78 GB   0.29%               2.296 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:13:03
+220 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               692.4 MB / 16.78 GB   4.13%               12.69 MB / 1.827 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               432.1 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.8 MB / 1.2 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               48.91 MB / 16.78 GB   0.29%               2.296 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:13:05
+222 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               692.4 MB / 16.78 GB   4.13%               12.69 MB / 1.827 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.1 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.8 MB / 1.2 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               48.91 MB / 16.78 GB   0.29%               2.296 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:13:07
+224 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.04%               692.4 MB / 16.78 GB   4.13%               12.69 MB / 1.83 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.52%               102 MB / 16.78 GB     0.61%               432.1 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.40%               7.725 MB / 16.78 GB   0.05%               332.8 MB / 1.2 GB     0 B / 0 B           0
+942b37b9b20c        12.86%              49.17 MB / 16.78 GB   0.29%               2.297 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:13:09
+226 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.86%               698.8 MB / 16.78 GB   4.17%               12.7 MB / 1.836 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.16%               101.7 MB / 16.78 GB   0.61%               432.3 MB / 1.059 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.15%               7.725 MB / 16.78 GB   0.05%               332.9 MB / 1.2 GB     0 B / 0 B           0
+942b37b9b20c        9.81%               49.17 MB / 16.78 GB   0.29%               2.297 GB / 1.03 GB    0 B / 36.86 kB      0
+16/06/21 16:13:11
+228 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O              BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               698.7 MB / 16.78 GB   4.16%               12.7 MB / 1.838 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.10%               101.7 MB / 16.78 GB   0.61%               432.3 MB / 1.06 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.9 MB / 1.2 GB    0 B / 0 B           0
+942b37b9b20c        0.03%               49.17 MB / 16.78 GB   0.29%               2.297 GB / 1.03 GB   0 B / 36.86 kB      0
+16/06/21 16:13:13
+230 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O              BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               698.7 MB / 16.78 GB   4.16%               12.7 MB / 1.838 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               432.3 MB / 1.06 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.9 MB / 1.2 GB    0 B / 0 B           0
+942b37b9b20c        0.02%               49.17 MB / 16.78 GB   0.29%               2.297 GB / 1.03 GB   0 B / 36.86 kB      0
+16/06/21 16:13:15
+232 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O              BLOCK I/O           PIDS
+f2b9f2d5b748        0.44%               698.7 MB / 16.78 GB   4.16%               12.7 MB / 1.838 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               432.3 MB / 1.06 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               332.9 MB / 1.2 GB    0 B / 0 B           0
+942b37b9b20c        0.03%               49.17 MB / 16.78 GB   0.29%               2.297 GB / 1.03 GB   0 B / 36.86 kB      0
+16/06/21 16:13:17
+234 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O              BLOCK I/O           PIDS
+f2b9f2d5b748        0.98%               698.7 MB / 16.78 GB   4.16%               12.71 MB / 1.84 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        4.49%               101.9 MB / 16.78 GB   0.61%               432.3 MB / 1.06 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.44%               7.725 MB / 16.78 GB   0.05%               333 MB / 1.2 GB      0 B / 0 B           0
+942b37b9b20c        11.20%              49.03 MB / 16.78 GB   0.29%               2.298 GB / 1.03 GB   0 B / 36.86 kB      0
+16/06/21 16:13:19
+236 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.84%               698.7 MB / 16.78 GB   4.16%               12.72 MB / 1.848 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        4.32%               101.7 MB / 16.78 GB   0.61%               432.5 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        1.14%               7.725 MB / 16.78 GB   0.05%               333.1 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        10.30%              48.95 MB / 16.78 GB   0.29%               2.298 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:21
+238 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.47%               698.7 MB / 16.78 GB   4.16%               12.72 MB / 1.85 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.37%               101.7 MB / 16.78 GB   0.61%               432.5 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.41%               7.725 MB / 16.78 GB   0.05%               333.1 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        3.67%               49.21 MB / 16.78 GB   0.29%               2.298 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:23
+240 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               698.7 MB / 16.78 GB   4.16%               12.72 MB / 1.85 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.5 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.1 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.21 MB / 16.78 GB   0.29%               2.298 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:25
+242 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               698.7 MB / 16.78 GB   4.16%               12.72 MB / 1.85 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.5 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.1 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.21 MB / 16.78 GB   0.29%               2.298 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:27
+244 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.85%               698.7 MB / 16.78 GB   4.16%               12.72 MB / 1.851 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        1.06%               101.7 MB / 16.78 GB   0.61%               432.5 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        1.00%               7.725 MB / 16.78 GB   0.05%               333.1 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        8.64%               49.05 MB / 16.78 GB   0.29%               2.298 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:29
+246 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.79%               698.7 MB / 16.78 GB   4.16%               12.73 MB / 1.858 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.19%               101.8 MB / 16.78 GB   0.61%               432.7 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.91%               7.725 MB / 16.78 GB   0.05%               333.2 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        8.78%               49.28 MB / 16.78 GB   0.29%               2.299 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:31
+248 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.64%               698.7 MB / 16.78 GB   4.16%               12.73 MB / 1.86 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        1.82%               101.7 MB / 16.78 GB   0.61%               432.7 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.52%               7.725 MB / 16.78 GB   0.05%               333.2 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        8.02%               49.43 MB / 16.78 GB   0.29%               2.299 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:33
+250 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               698.7 MB / 16.78 GB   4.16%               12.73 MB / 1.86 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.09%               101.7 MB / 16.78 GB   0.61%               432.7 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.2 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.18 MB / 16.78 GB   0.29%               2.299 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:35
+252 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               698.7 MB / 16.78 GB   4.16%               12.73 MB / 1.86 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.7 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.2 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.18 MB / 16.78 GB   0.29%               2.299 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:37
+254 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.64%               698.7 MB / 16.78 GB   4.16%               12.73 MB / 1.861 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        1.87%               101.8 MB / 16.78 GB   0.61%               432.7 MB / 1.06 GB    0 B / 5.632 MB      0
+a807a17d1bd8        1.07%               7.725 MB / 16.78 GB   0.05%               333.2 MB / 1.201 GB   0 B / 0 B           0
+942b37b9b20c        5.42%               49.55 MB / 16.78 GB   0.30%               2.299 GB / 1.031 GB   0 B / 36.86 kB      0
+16/06/21 16:13:39
+256 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.66%               698.7 MB / 16.78 GB   4.16%               12.75 MB / 1.87 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        3.89%               101.8 MB / 16.78 GB   0.61%               432.9 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.93%               7.725 MB / 16.78 GB   0.05%               333.3 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        10.54%              49.35 MB / 16.78 GB   0.29%               2.3 GB / 1.031 GB     0 B / 36.86 kB      0
+16/06/21 16:13:41
+258 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.80%               698.7 MB / 16.78 GB   4.16%               12.76 MB / 1.872 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        3.92%               101.7 MB / 16.78 GB   0.61%               432.9 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.07%               7.725 MB / 16.78 GB   0.05%               333.4 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        11.12%              48.96 MB / 16.78 GB   0.29%               2.3 GB / 1.031 GB     0 B / 36.86 kB      0
+16/06/21 16:13:43
+260 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               698.7 MB / 16.78 GB   4.16%               12.76 MB / 1.872 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.9 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.4 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.96 MB / 16.78 GB   0.29%               2.3 GB / 1.031 GB     0 B / 36.86 kB      0
+16/06/21 16:13:45
+262 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               698.7 MB / 16.78 GB   4.16%               12.76 MB / 1.872 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.9 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.4 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.96 MB / 16.78 GB   0.29%               2.3 GB / 1.031 GB     0 B / 36.86 kB      0
+16/06/21 16:13:47
+264 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               698.7 MB / 16.78 GB   4.16%               12.76 MB / 1.872 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               432.9 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.4 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               48.96 MB / 16.78 GB   0.29%               2.3 GB / 1.031 GB     0 B / 36.86 kB      0
+16/06/21 16:13:49
+266 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.38%               698.7 MB / 16.78 GB   4.16%               12.77 MB / 1.88 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.00%               101.7 MB / 16.78 GB   0.61%               433.1 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.78%               7.725 MB / 16.78 GB   0.05%               333.4 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        6.30%               49.33 MB / 16.78 GB   0.29%               2.301 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:13:51
+268 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.89%               698.7 MB / 16.78 GB   4.16%               12.77 MB / 1.883 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.51%               101.7 MB / 16.78 GB   0.61%               433.1 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.20%               7.725 MB / 16.78 GB   0.05%               333.5 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        10.41%              49.23 MB / 16.78 GB   0.29%               2.301 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:13:53
+270 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               698.7 MB / 16.78 GB   4.16%               12.77 MB / 1.883 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               433.1 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.5 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.23 MB / 16.78 GB   0.29%               2.301 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:13:55
+272 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               698.7 MB / 16.78 GB   4.16%               12.77 MB / 1.883 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               433.1 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.5 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.23 MB / 16.78 GB   0.29%               2.301 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:13:57
+274 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               698.7 MB / 16.78 GB   4.16%               12.77 MB / 1.883 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               433.1 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.01%               7.725 MB / 16.78 GB   0.05%               333.5 MB / 1.202 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.23 MB / 16.78 GB   0.29%               2.301 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:13:59
+276 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.81%               698.7 MB / 16.78 GB   4.16%               13.17 MB / 1.896 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        3.89%               101.7 MB / 16.78 GB   0.61%               433.3 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.01%               7.725 MB / 16.78 GB   0.05%               333.6 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        9.18%               49.23 MB / 16.78 GB   0.29%               2.302 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:14:01
+278 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.83%               698.7 MB / 16.78 GB   4.16%               13.18 MB / 1.9 MB     0 B / 69.63 kB      0
+6fcb7d6556d0        3.95%               101.7 MB / 16.78 GB   0.61%               433.3 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.04%               7.725 MB / 16.78 GB   0.05%               333.6 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        9.95%               49.21 MB / 16.78 GB   0.29%               2.302 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:14:03
+280 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               698.7 MB / 16.78 GB   4.16%               13.18 MB / 1.9 MB     0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               433.3 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.6 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.97 MB / 16.78 GB   0.29%               2.302 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:14:05
+282 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               698.7 MB / 16.78 GB   4.16%               13.18 MB / 1.9 MB     0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               433.3 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.6 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.97 MB / 16.78 GB   0.29%               2.302 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:14:07
+284 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               698.7 MB / 16.78 GB   4.16%               13.18 MB / 1.9 MB     0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               433.3 MB / 1.061 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.01%               7.725 MB / 16.78 GB   0.05%               333.6 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.97 MB / 16.78 GB   0.29%               2.302 GB / 1.032 GB   0 B / 36.86 kB      0
+16/06/21 16:14:09
+286 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.81%               698.7 MB / 16.78 GB   4.16%               13.24 MB / 1.91 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        5.47%               101.7 MB / 16.78 GB   0.61%               433.6 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.82%               7.725 MB / 16.78 GB   0.05%               333.7 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        12.97%              49.43 MB / 16.78 GB   0.29%               2.303 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:11
+288 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.83%               698.7 MB / 16.78 GB   4.16%               13.24 MB / 1.912 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.24%               101.7 MB / 16.78 GB   0.61%               433.6 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.04%               7.725 MB / 16.78 GB   0.05%               333.8 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        9.72%               49.44 MB / 16.78 GB   0.29%               2.303 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:13
+290 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               698.7 MB / 16.78 GB   4.16%               13.24 MB / 1.912 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.7 MB / 16.78 GB   0.61%               433.6 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.8 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.2 MB / 16.78 GB    0.29%               2.303 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:15
+292 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               698.7 MB / 16.78 GB   4.16%               13.24 MB / 1.912 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               433.6 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.8 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.2 MB / 16.78 GB    0.29%               2.303 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:17
+294 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.38%               698.7 MB / 16.78 GB   4.16%               13.24 MB / 1.912 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               433.6 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.8 MB / 1.203 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.2 MB / 16.78 GB    0.29%               2.303 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:19
+296 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.15%               698.7 MB / 16.78 GB   4.16%               13.26 MB / 1.921 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        4.13%               101.7 MB / 16.78 GB   0.61%               433.8 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.33%               7.725 MB / 16.78 GB   0.05%               333.9 MB / 1.204 GB   0 B / 0 B           0
+942b37b9b20c        10.75%              49.07 MB / 16.78 GB   0.29%               2.304 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:21
+298 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.87%               698.7 MB / 16.78 GB   4.16%               13.26 MB / 1.925 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        4.23%               101.7 MB / 16.78 GB   0.61%               433.8 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.41%               7.725 MB / 16.78 GB   0.05%               333.9 MB / 1.204 GB   0 B / 0 B           0
+942b37b9b20c        11.65%              49.48 MB / 16.78 GB   0.29%               2.304 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:23
+300 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.38%               698.7 MB / 16.78 GB   4.16%               13.26 MB / 1.925 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.7 MB / 16.78 GB   0.61%               433.8 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.9 MB / 1.204 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.25 MB / 16.78 GB   0.29%               2.304 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:25
+302 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               698.7 MB / 16.78 GB   4.16%               13.26 MB / 1.925 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.7 MB / 16.78 GB   0.61%               433.8 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.9 MB / 1.204 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.25 MB / 16.78 GB   0.29%               2.304 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:27
+304 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               698.7 MB / 16.78 GB   4.16%               13.26 MB / 1.925 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.7 MB / 16.78 GB   0.61%               433.8 MB / 1.062 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               333.9 MB / 1.204 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.25 MB / 16.78 GB   0.29%               2.304 GB / 1.033 GB   0 B / 36.86 kB      0
+16/06/21 16:14:29
+306 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        2.03%               698.7 MB / 16.78 GB   4.16%               13.27 MB / 1.932 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.58%               101.8 MB / 16.78 GB   0.61%               433.9 MB / 1.063 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.13%               7.725 MB / 16.78 GB   0.05%               334 MB / 1.204 GB     0 B / 0 B           0
+942b37b9b20c        10.25%              49.28 MB / 16.78 GB   0.29%               2.305 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:31
+308 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.90%               698.7 MB / 16.78 GB   4.16%               13.27 MB / 1.935 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        2.43%               101.8 MB / 16.78 GB   0.61%               434 MB / 1.063 GB     0 B / 5.632 MB      0
+a807a17d1bd8        0.99%               7.725 MB / 16.78 GB   0.05%               334 MB / 1.204 GB     0 B / 0 B           0
+942b37b9b20c        10.09%              49.51 MB / 16.78 GB   0.30%               2.305 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:33
+310 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               698.7 MB / 16.78 GB   4.16%               13.27 MB / 1.935 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.7 MB / 16.78 GB   0.61%               434 MB / 1.063 GB     0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334 MB / 1.204 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.25 MB / 16.78 GB   0.29%               2.305 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:35
+312 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.37%               698.7 MB / 16.78 GB   4.16%               13.27 MB / 1.935 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               434 MB / 1.063 GB     0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334 MB / 1.204 GB     0 B / 0 B           0
+942b37b9b20c        0.02%               49.25 MB / 16.78 GB   0.29%               2.305 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:37
+314 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               698.7 MB / 16.78 GB   4.16%               13.27 MB / 1.935 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.7 MB / 16.78 GB   0.61%               434 MB / 1.063 GB     0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334 MB / 1.204 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.25 MB / 16.78 GB   0.29%               2.305 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:39
+316 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.47%               698.7 MB / 16.78 GB   4.16%               13.29 MB / 1.944 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        5.77%               101.8 MB / 16.78 GB   0.61%               434.2 MB / 1.063 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.50%               7.725 MB / 16.78 GB   0.05%               334.2 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        12.67%              49.27 MB / 16.78 GB   0.29%               2.306 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:41
+318 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.95%               698.9 MB / 16.78 GB   4.17%               13.3 MB / 1.947 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        4.27%               101.8 MB / 16.78 GB   0.61%               434.2 MB / 1.063 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.14%               7.725 MB / 16.78 GB   0.05%               334.2 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        11.19%              49.27 MB / 16.78 GB   0.29%               2.306 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:43
+320 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               698.7 MB / 16.78 GB   4.16%               13.3 MB / 1.947 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               434.2 MB / 1.063 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.2 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.27 MB / 16.78 GB   0.29%               2.306 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:45
+322 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               698.7 MB / 16.78 GB   4.16%               13.3 MB / 1.947 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.05%               101.8 MB / 16.78 GB   0.61%               434.2 MB / 1.063 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.2 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.27 MB / 16.78 GB   0.29%               2.306 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:47
+324 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.38%               698.7 MB / 16.78 GB   4.16%               13.3 MB / 1.947 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               434.2 MB / 1.063 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.2 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.27 MB / 16.78 GB   0.29%               2.306 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:49
+326 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        2.65%               699.8 MB / 16.78 GB   4.17%               13.31 MB / 1.955 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        7.30%               101.8 MB / 16.78 GB   0.61%               434.4 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.27%               7.725 MB / 16.78 GB   0.05%               334.3 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        19.70%              49.34 MB / 16.78 GB   0.29%               2.307 GB / 1.034 GB   0 B / 36.86 kB      0
+16/06/21 16:14:51
+328 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.86%               699.8 MB / 16.78 GB   4.17%               13.7 MB / 1.962 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.37%               101.8 MB / 16.78 GB   0.61%               434.4 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.16%               7.725 MB / 16.78 GB   0.05%               334.3 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        10.30%              49.34 MB / 16.78 GB   0.29%               2.307 GB / 1.035 GB   0 B / 36.86 kB      0
+16/06/21 16:14:53
+330 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.37%               699.2 MB / 16.78 GB   4.17%               13.7 MB / 1.962 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               434.4 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.3 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.22 MB / 16.78 GB   0.29%               2.307 GB / 1.035 GB   0 B / 36.86 kB      0
+16/06/21 16:14:55
+332 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               699.2 MB / 16.78 GB   4.17%               13.7 MB / 1.962 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.8 MB / 16.78 GB   0.61%               434.4 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.3 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.22 MB / 16.78 GB   0.29%               2.307 GB / 1.035 GB   0 B / 36.86 kB      0
+16/06/21 16:14:57
+334 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               699.2 MB / 16.78 GB   4.17%               13.7 MB / 1.962 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.8 MB / 16.78 GB   0.61%               434.4 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.3 MB / 1.205 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.22 MB / 16.78 GB   0.29%               2.307 GB / 1.035 GB   0 B / 36.86 kB      0
+16/06/21 16:14:59
+336 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        2.11%               699.2 MB / 16.78 GB   4.17%               13.72 MB / 1.971 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        14.06%              101.9 MB / 16.78 GB   0.61%               434.6 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.92%               7.725 MB / 16.78 GB   0.05%               334.5 MB / 1.206 GB   0 B / 0 B           0
+942b37b9b20c        25.30%              49.05 MB / 16.78 GB   0.29%               2.308 GB / 1.035 GB   0 B / 36.86 kB      0
+16/06/21 16:15:01
+338 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.87%               699.2 MB / 16.78 GB   4.17%               13.8 MB / 1.978 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        8.42%               101.8 MB / 16.78 GB   0.61%               434.8 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.42%               7.725 MB / 16.78 GB   0.05%               334.5 MB / 1.206 GB   0 B / 0 B           0
+942b37b9b20c        18.96%              49.12 MB / 16.78 GB   0.29%               2.308 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:03
+340 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               699.2 MB / 16.78 GB   4.17%               13.8 MB / 1.978 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               434.8 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.01%               7.725 MB / 16.78 GB   0.05%               334.5 MB / 1.206 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               48.99 MB / 16.78 GB   0.29%               2.308 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:05
+342 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               699.2 MB / 16.78 GB   4.17%               13.8 MB / 1.978 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               434.8 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.5 MB / 1.206 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.99 MB / 16.78 GB   0.29%               2.308 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:07
+344 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               699.2 MB / 16.78 GB   4.17%               13.8 MB / 1.978 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               434.8 MB / 1.064 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.5 MB / 1.206 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.99 MB / 16.78 GB   0.29%               2.308 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:09
+346 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.63%               699.2 MB / 16.78 GB   4.17%               13.82 MB / 1.986 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        16.77%              101.9 MB / 16.78 GB   0.61%               435.1 MB / 1.065 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.36%               7.725 MB / 16.78 GB   0.05%               334.7 MB / 1.206 GB   0 B / 0 B           0
+942b37b9b20c        41.40%              49.43 MB / 16.78 GB   0.29%               2.309 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:11
+348 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.01%               699.2 MB / 16.78 GB   4.17%               13.83 MB / 1.989 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        6.79%               101.8 MB / 16.78 GB   0.61%               435.2 MB / 1.065 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.41%               7.725 MB / 16.78 GB   0.05%               334.7 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        19.85%              49.31 MB / 16.78 GB   0.29%               2.31 GB / 1.036 GB    0 B / 36.86 kB      0
+16/06/21 16:15:13
+350 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.37%               699.2 MB / 16.78 GB   4.17%               13.83 MB / 1.989 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               435.2 MB / 1.065 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.7 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        0.04%               49.19 MB / 16.78 GB   0.29%               2.31 GB / 1.036 GB    0 B / 36.86 kB      0
+16/06/21 16:15:15
+352 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               699.2 MB / 16.78 GB   4.17%               13.83 MB / 1.989 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.09%               101.8 MB / 16.78 GB   0.61%               435.2 MB / 1.065 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.01%               7.725 MB / 16.78 GB   0.05%               334.7 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.19 MB / 16.78 GB   0.29%               2.31 GB / 1.036 GB    0 B / 36.86 kB      0
+16/06/21 16:15:17
+354 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               699.2 MB / 16.78 GB   4.17%               13.83 MB / 1.989 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               435.2 MB / 1.065 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.7 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.19 MB / 16.78 GB   0.29%               2.31 GB / 1.036 GB    0 B / 36.86 kB      0
+16/06/21 16:15:19
+356 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.88%               699.2 MB / 16.78 GB   4.17%               13.84 MB / 1.998 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        21.86%              101.8 MB / 16.78 GB   0.61%               435.3 MB / 1.065 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.38%               7.725 MB / 16.78 GB   0.05%               334.8 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        44.25%              49.89 MB / 16.78 GB   0.30%               2.31 GB / 1.036 GB    0 B / 36.86 kB      0
+16/06/21 16:15:21
+358 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.26%               699.2 MB / 16.78 GB   4.17%               13.84 MB / 2.001 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        8.22%               101.8 MB / 16.78 GB   0.61%               435.4 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.26%               7.725 MB / 16.78 GB   0.05%               334.9 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        21.76%              49.53 MB / 16.78 GB   0.30%               2.311 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:23
+360 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               699.2 MB / 16.78 GB   4.17%               13.84 MB / 2.001 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               435.4 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.9 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.27 MB / 16.78 GB   0.29%               2.311 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:25
+362 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.37%               699.2 MB / 16.78 GB   4.17%               13.84 MB / 2.001 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               435.4 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.9 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.27 MB / 16.78 GB   0.29%               2.311 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:27
+364 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.37%               699.2 MB / 16.78 GB   4.17%               13.84 MB / 2.001 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               435.4 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               334.9 MB / 1.207 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.27 MB / 16.78 GB   0.29%               2.311 GB / 1.036 GB   0 B / 36.86 kB      0
+16/06/21 16:15:29
+366 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.84%               699.2 MB / 16.78 GB   4.17%               13.85 MB / 2.008 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        10.48%              101.9 MB / 16.78 GB   0.61%               435.5 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.05%               7.725 MB / 16.78 GB   0.05%               335 MB / 1.207 GB     0 B / 0 B           0
+942b37b9b20c        37.21%              49.47 MB / 16.78 GB   0.29%               2.311 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:31
+368 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.17%               699.2 MB / 16.78 GB   4.17%               13.86 MB / 2.011 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        4.38%               101.8 MB / 16.78 GB   0.61%               435.6 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.23%               7.725 MB / 16.78 GB   0.05%               335 MB / 1.208 GB     0 B / 0 B           0
+942b37b9b20c        18.98%              49.48 MB / 16.78 GB   0.29%               2.311 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:33
+370 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               699.2 MB / 16.78 GB   4.17%               13.86 MB / 2.011 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               435.6 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335 MB / 1.208 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.24 MB / 16.78 GB   0.29%               2.311 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:35
+372 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               699.2 MB / 16.78 GB   4.17%               13.86 MB / 2.011 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               435.6 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335 MB / 1.208 GB     0 B / 0 B           0
+942b37b9b20c        0.02%               49.24 MB / 16.78 GB   0.29%               2.311 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:37
+374 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.38%               699.2 MB / 16.78 GB   4.17%               13.86 MB / 2.011 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.06%               101.8 MB / 16.78 GB   0.61%               435.6 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335 MB / 1.208 GB     0 B / 0 B           0
+942b37b9b20c        0.03%               49.24 MB / 16.78 GB   0.29%               2.311 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:39
+376 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.90%               699.2 MB / 16.78 GB   4.17%               13.87 MB / 2.019 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        19.32%              102 MB / 16.78 GB     0.61%               435.7 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.61%               7.725 MB / 16.78 GB   0.05%               335.1 MB / 1.208 GB   0 B / 0 B           0
+942b37b9b20c        41.03%              49.41 MB / 16.78 GB   0.29%               2.312 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:41
+378 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.21%               699.2 MB / 16.78 GB   4.17%               13.88 MB / 2.024 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        9.10%               101.8 MB / 16.78 GB   0.61%               435.8 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        2.85%               7.725 MB / 16.78 GB   0.05%               335.1 MB / 1.208 GB   0 B / 0 B           0
+942b37b9b20c        21.63%              49.61 MB / 16.78 GB   0.30%               2.312 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:43
+380 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               699.2 MB / 16.78 GB   4.17%               13.88 MB / 2.024 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               435.8 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.1 MB / 1.208 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.27 MB / 16.78 GB   0.29%               2.312 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:45
+382 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               699.2 MB / 16.78 GB   4.17%               13.88 MB / 2.024 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               435.8 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.1 MB / 1.208 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.27 MB / 16.78 GB   0.29%               2.312 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:47
+384 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               699.2 MB / 16.78 GB   4.17%               13.88 MB / 2.024 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               435.8 MB / 1.066 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.1 MB / 1.208 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.27 MB / 16.78 GB   0.29%               2.312 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:49
+386 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.88%               699.2 MB / 16.78 GB   4.17%               13.89 MB / 2.03 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        13.78%              101.9 MB / 16.78 GB   0.61%               436 MB / 1.067 GB     0 B / 5.632 MB      0
+a807a17d1bd8        4.48%               7.725 MB / 16.78 GB   0.05%               335.2 MB / 1.208 GB   0 B / 0 B           0
+942b37b9b20c        41.49%              49.24 MB / 16.78 GB   0.29%               2.313 GB / 1.037 GB   0 B / 36.86 kB      0
+16/06/21 16:15:51
+388 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.63%               699.2 MB / 16.78 GB   4.17%               13.9 MB / 2.034 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        2.74%               101.9 MB / 16.78 GB   0.61%               436.1 MB / 1.067 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.54%               7.725 MB / 16.78 GB   0.05%               335.3 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        12.44%              49.36 MB / 16.78 GB   0.29%               2.313 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:15:53
+390 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               699.2 MB / 16.78 GB   4.17%               13.9 MB / 2.034 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               436.1 MB / 1.067 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.3 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        0.02%               49.25 MB / 16.78 GB   0.29%               2.314 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:15:55
+392 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               699.2 MB / 16.78 GB   4.17%               13.9 MB / 2.034 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               436.1 MB / 1.067 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.3 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.25 MB / 16.78 GB   0.29%               2.314 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:15:57
+394 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.43%               699.2 MB / 16.78 GB   4.17%               13.9 MB / 2.034 MB    0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               436.1 MB / 1.067 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.3 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               49.25 MB / 16.78 GB   0.29%               2.314 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:15:59
+396 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        2.57%               699.2 MB / 16.78 GB   4.17%               13.92 MB / 2.042 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        23.56%              101.8 MB / 16.78 GB   0.61%               436.3 MB / 1.067 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.57%               7.725 MB / 16.78 GB   0.05%               335.4 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        47.91%              52.71 MB / 16.78 GB   0.31%               2.314 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:16:01
+398 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.90%               699.2 MB / 16.78 GB   4.17%               13.93 MB / 2.045 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        7.38%               101.8 MB / 16.78 GB   0.61%               436.4 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.75%               7.725 MB / 16.78 GB   0.05%               335.5 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        14.89%              47.67 MB / 16.78 GB   0.28%               2.315 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:16:03
+400 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.39%               699.2 MB / 16.78 GB   4.17%               13.93 MB / 2.047 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               436.4 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.5 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.26 MB / 16.78 GB   0.29%               2.315 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:16:05
+402 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.40%               699.2 MB / 16.78 GB   4.17%               13.93 MB / 2.047 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               436.4 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.5 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        0.04%               48.26 MB / 16.78 GB   0.29%               2.315 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:16:07
+404 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.42%               699.2 MB / 16.78 GB   4.17%               13.93 MB / 2.047 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.11%               101.8 MB / 16.78 GB   0.61%               436.4 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.5 MB / 1.209 GB   0 B / 0 B           0
+942b37b9b20c        0.03%               48.26 MB / 16.78 GB   0.29%               2.315 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:16:09
+406 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        1.87%               699.4 MB / 16.78 GB   4.17%               13.94 MB / 2.053 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        13.92%              101.8 MB / 16.78 GB   0.61%               436.6 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.45%               7.725 MB / 16.78 GB   0.05%               335.6 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        43.25%              50.34 MB / 16.78 GB   0.30%               2.315 GB / 1.038 GB   0 B / 36.86 kB      0
+16/06/21 16:16:11
+408 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.85%               699.2 MB / 16.78 GB   4.17%               13.95 MB / 2.056 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        5.64%               101.8 MB / 16.78 GB   0.61%               436.7 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        1.77%               7.725 MB / 16.78 GB   0.05%               335.6 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        13.74%              45.7 MB / 16.78 GB    0.27%               2.316 GB / 1.039 GB   0 B / 36.86 kB      0
+16/06/21 16:16:13
+410 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.38%               699.2 MB / 16.78 GB   4.17%               13.95 MB / 2.058 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.8 MB / 16.78 GB   0.61%               436.7 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.7 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        0.03%               47.5 MB / 16.78 GB    0.28%               2.316 GB / 1.039 GB   0 B / 36.86 kB      0
+16/06/21 16:16:15
+412 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               699.2 MB / 16.78 GB   4.17%               13.95 MB / 2.058 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.08%               101.8 MB / 16.78 GB   0.61%               436.7 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.7 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        0.02%               47.5 MB / 16.78 GB    0.28%               2.316 GB / 1.039 GB   0 B / 36.86 kB      0
+16/06/21 16:16:17
+414 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.41%               699.2 MB / 16.78 GB   4.17%               13.95 MB / 2.058 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        0.07%               101.8 MB / 16.78 GB   0.61%               436.7 MB / 1.068 GB   0 B / 5.632 MB      0
+a807a17d1bd8        0.00%               7.725 MB / 16.78 GB   0.05%               335.7 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        0.03%               47.5 MB / 16.78 GB    0.28%               2.316 GB / 1.039 GB   0 B / 36.86 kB      0
+16/06/21 16:16:19
+416 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        2.02%               699 MB / 16.78 GB     4.17%               13.97 MB / 2.065 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        24.14%              101.9 MB / 16.78 GB   0.61%               436.9 MB / 1.069 GB   0 B / 5.632 MB      0
+a807a17d1bd8        4.94%               7.725 MB / 16.78 GB   0.05%               335.8 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        48.95%              48.18 MB / 16.78 GB   0.29%               2.317 GB / 1.039 GB   0 B / 36.86 kB      0
+16/06/21 16:16:21
+418 seconds passed 
+CONTAINER           CPU %               MEM USAGE / LIMIT     MEM %               NET I/O               BLOCK I/O           PIDS
+f2b9f2d5b748        0.75%               698.9 MB / 16.78 GB   4.17%               13.98 MB / 2.069 MB   0 B / 69.63 kB      0
+6fcb7d6556d0        7.60%               101.8 MB / 16.78 GB   0.61%               437 MB / 1.069 GB     0 B / 5.632 MB      0
+a807a17d1bd8        1.76%               7.725 MB / 16.78 GB   0.05%               335.8 MB / 1.21 GB    0 B / 0 B           0
+942b37b9b20c        14.92%              47.84 MB / 16.78 GB   0.29%               2.317 GB / 1.039 GB   0 B / 36.86 kB      0
