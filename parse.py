@@ -12,15 +12,14 @@ the specified "container_list".
 '''
 def extractCPU(logline, container_list, cpu_list):
     
-    find_flag = False
-    
     for i in range(len(container_list)):
         # The line is corresponding to the container.
         if logline.startswith(container_list[i]):
             log = logline.split()
             cpu = log[1]
             cpu_list[i].append(cpu)
-            return True 
+            break
+    return cpu_list
         
 def showCPUinTime(time_list, web_cpu, db_cpu, memcached_cpu):
 
@@ -32,7 +31,18 @@ def showCPUinTime(time_list, web_cpu, db_cpu, memcached_cpu):
         print "db" + str(i) +", ",
     for i in range(len(memcached_cpu)):
         print "memcached" + str(i) +", ",
+    print
     
+    # Show elements in the lists
+    for t in range(len(time_list)):
+        print str(time_list[t]) + ", ", 
+        for i in range(len(web_cpu)):
+            print str(web_cpu[i][t]) + ", ",
+        for i in range(len(db_cpu)):
+            print str(db_cpu[i][t]) + ", ",
+        for i in range(len(memcached_cpu)):
+            print str(memcached_cpu[i][t]) + ", ",
+        print
     
     
 if __name__ == "__main__":
@@ -45,7 +55,7 @@ if __name__ == "__main__":
     web_cpu = [[]] * len(web_container)
     time_list = []
     
-    logfile = open('./data/log.data')
+    logfile = open('./data/log2.data')
     logline = logfile.readline() 
      
     while logline:
@@ -53,12 +63,12 @@ if __name__ == "__main__":
         if sec:
             time_list.append(sec.group(1))
         else:
-            if extractCPU(logline, db_container, db_cpu):
-                if extractCPU(logline, memcached_container, memcached_cpu):
-                    if extractCPU(logline, web_container, web_cpu):
-                        break
+            db_cpu = extractCPU(logline, db_container, db_cpu)
+            memcached_cpu = extractCPU(logline, memcached_container, memcached_cpu)
+            web_cpu = extractCPU(logline, web_container, web_cpu)
         logline = logfile.readline()
     logfile.close
+
 
     showCPUinTime(time_list, web_cpu, db_cpu, memcached_cpu)
 
